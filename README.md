@@ -40,5 +40,8 @@
   </a>
 </div>
 
-###
+### Escuchando en Spotify
 
+[![Spotify](spotify-darkflame-7icl8ybiu-darkflamebgs-projects.vercel.app)](https://open.spotify.com/user/USER_NAME)
+
+###
