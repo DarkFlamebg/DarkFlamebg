@@ -42,6 +42,6 @@
 
 ### Escuchando en Spotify
 
-[<img src="https://spotify-darkflame-7icl8ybiu-darkflamebgs-projects.vercel.app" alt="darkFlame spotify playing" width="350" />]()
+[![Spotify](https://spotify-darkflame-7icl8ybiu-darkflamebgs-projects.vercel.app)](https://open.spotify.com/user/USER_NAME)
 
 ###
